@@ -1,8 +1,3 @@
-
-
-<!--
-**MrBotDeveloper/MrBotDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 𝕳𝖊𝖑𝖑𝖔  💜✋
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/MrBotDeveloper) [![telegram badge](https://img.shields.io/badge/🅼คгςยรㅤ🅷๏ɭɭ๏ฬคY-30302f?style=flat&logo=telegram)](https://telegram.dog/MrBot_Developer)
