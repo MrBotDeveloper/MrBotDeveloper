@@ -6,7 +6,7 @@
 
 
                 
-![GitHub followers](https://img.shields.io/github/followers/MrBotDeveloper?style=social?style=social&logo=appveyor) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMrBotDeveloper%2F&count_bg=%230D62FF&title_bg=%23FF0000&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
+![GitHub followers](https://img.shields.io/github/followers/MrBotDeveloper?style=social?style=social&logo=GitHub) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMrBotDeveloper%2F&count_bg=%230D62FF&title_bg=%23FF0000&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 - 👨‍💼 𝓕𝓻𝓮𝓮𝓵𝓪𝓷𝓬𝓮  𝔀𝓸𝓻𝓴𝓮𝓻.
