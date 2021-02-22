@@ -1,4 +1,4 @@
-### 𝕳𝖊𝖑𝖑𝖔  💜✋
+### 𝕳𝖊𝖑𝖑𝖔 👋💜✋
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/MrBotDeveloper) [![telegram badge](https://img.shields.io/badge/MrBotDeveloper-30302f?style=flat&logo=telegram)](https://telegram.dog/MrBot_Developer)
 
@@ -12,7 +12,7 @@
 
 
 - 👨‍💼 𝓕𝓻𝓮𝓮𝓵𝓪𝓷𝓬𝓮  𝔀𝓸𝓻𝓴𝓮𝓻.
-- 🌚 <b>nσσв cσdєr</b>
+- 🌚 <b>𝐒𝐮𝐩𝐞𝐫 nσσв cσdєr</b>
 - 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
 - ⚠️ <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
 
