@@ -2,6 +2,8 @@
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/MrBotDeveloper) [![telegram badge](https://img.shields.io/badge/MrBotDeveloper-30302f?style=flat&logo=telegram)](https://telegram.dog/MrBot_Developer)
 
+<p align="center"> <a href="https://github.com/MrBotDeveloper/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=MrBotDeveloper&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="MrBotDeveloper" /></a> </p><br>
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=MrBotDeveloper&hide=prs&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
