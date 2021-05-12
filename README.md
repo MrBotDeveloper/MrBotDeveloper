@@ -46,3 +46,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ⚡ GitHub Recent Activities 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
