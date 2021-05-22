@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Recent Activities 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13103](https://github.com/timburgan/timburgan/issues/13103) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#13018](https://github.com/timburgan/timburgan/issues/13018) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. 🗣 Commented on [#25](https://github.com/MrBotDeveloper/telegram-pdf-bot/issues/25) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
-4. 🗣 Commented on [#25](https://github.com/MrBotDeveloper/telegram-pdf-bot/issues/25) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
-5. 🗣 Commented on [#25](https://github.com/breakdowns/slam-mirrorbot/issues/25) in [breakdowns/slam-mirrorbot](https://github.com/breakdowns/slam-mirrorbot)
+1. 🎉 Merged PR [#42](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/42) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
+2. 🎉 Merged PR [#43](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/43) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
+3. ❗️ Opened issue [#13103](https://github.com/timburgan/timburgan/issues/13103) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. ❗️ Opened issue [#13018](https://github.com/timburgan/timburgan/issues/13018) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. 🗣 Commented on [#25](https://github.com/MrBotDeveloper/telegram-pdf-bot/issues/25) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
 <!--END_SECTION:activity-->
