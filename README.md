@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Recent Activities 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/46) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
-2. 🎉 Merged PR [#41](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/41) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
-3. 🎉 Merged PR [#33](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/33) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
-4. 🎉 Merged PR [#45](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/45) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
-5. 🎉 Merged PR [#42](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/42) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
+1. ❌ Closed PR [#48](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/48) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
+2. ❌ Closed PR [#40](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/40) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
+3. ❌ Closed PR [#39](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/39) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
+4. ❌ Closed PR [#37](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/37) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
+5. ❌ Closed PR [#36](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/36) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
 <!--END_SECTION:activity-->
