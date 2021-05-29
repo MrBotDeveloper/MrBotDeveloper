@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Recent Activities 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/AbirHasan2005/AbirHasan2005/pull/5) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
-2. 🗣 Commented on [#3](https://github.com/AbirHasan2005/AbirHasan2005/issues/3) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
-3. 🗣 Commented on [#1](https://github.com/AbirHasan2005/GdriveSearcherBot/issues/1) in [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot)
-4. 💪 Opened PR [#4](https://github.com/AbirHasan2005/AbirHasan2005/pull/4) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
-5. 💪 Opened PR [#3](https://github.com/AbirHasan2005/AbirHasan2005/pull/3) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
+1. 💪 Opened PR [#2](https://github.com/AbirHasan2005/GdriveSearcherBot/pull/2) in [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot)
+2. 💪 Opened PR [#5](https://github.com/AbirHasan2005/AbirHasan2005/pull/5) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
+3. 🗣 Commented on [#3](https://github.com/AbirHasan2005/AbirHasan2005/issues/3) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
+4. 🗣 Commented on [#1](https://github.com/AbirHasan2005/GdriveSearcherBot/issues/1) in [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot)
+5. 💪 Opened PR [#4](https://github.com/AbirHasan2005/AbirHasan2005/pull/4) in [AbirHasan2005/AbirHasan2005](https://github.com/AbirHasan2005/AbirHasan2005)
 <!--END_SECTION:activity-->
