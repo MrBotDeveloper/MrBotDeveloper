@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Recent Activities 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#77](https://github.com/yash-dk/TorToolkit-Telegram/issues/77) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-2. 🎉 Merged PR [#60](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/60) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
-3. 🎉 Merged PR [#61](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/61) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
-4. 🎉 Merged PR [#59](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/59) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
-5. ❗️ Closed issue [#158](https://github.com/pascalgn/automerge-action/issues/158) in [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action)
+1. 🎉 Merged PR [#62](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/62) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
+2. 🎉 Merged PR [#65](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/65) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
+3. 🎉 Merged PR [#66](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/66) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
+4. ❗️ Opened issue [#77](https://github.com/yash-dk/TorToolkit-Telegram/issues/77) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+5. 🎉 Merged PR [#60](https://github.com/MrBotDeveloper/telegram-pdf-bot/pull/60) in [MrBotDeveloper/telegram-pdf-bot](https://github.com/MrBotDeveloper/telegram-pdf-bot)
 <!--END_SECTION:activity-->
