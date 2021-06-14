@@ -34,7 +34,7 @@ I am A Noob Telegram Bot Developer, who used to learn from open sources and the 
 
   [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-Mr._Developer-RED.svg)](https://telegram.dog/Mr_Pro_Noob)
 
-
+ [![Mr.Developer Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MrBotDeveloper&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/MrBotDeveloper)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Heroku Mods #AbuseHeroku
