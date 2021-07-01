@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Recent Activities 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/MrBotDeveloper/PDF-Bot/pull/77) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-2. 🎉 Merged PR [#76](https://github.com/MrBotDeveloper/PDF-Bot/pull/76) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-3. ❗️ Opened issue [#210](https://github.com/sandy1709/catuserbot/issues/210) in [sandy1709/catuserbot](https://github.com/sandy1709/catuserbot)
-4. ❗️ Closed issue [#25](https://github.com/MrBotDeveloper/PDF-Bot/issues/25) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-5. 🗣 Commented on [#25](https://github.com/MrBotDeveloper/PDF-Bot/issues/25) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+1. ❌ Closed PR [#78](https://github.com/MrBotDeveloper/PDF-Bot/pull/78) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+2. 💪 Opened PR [#78](https://github.com/MrBotDeveloper/PDF-Bot/pull/78) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+3. 🎉 Merged PR [#77](https://github.com/MrBotDeveloper/PDF-Bot/pull/77) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+4. 🎉 Merged PR [#76](https://github.com/MrBotDeveloper/PDF-Bot/pull/76) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+5. ❗️ Opened issue [#210](https://github.com/sandy1709/catuserbot/issues/210) in [sandy1709/catuserbot](https://github.com/sandy1709/catuserbot)
 <!--END_SECTION:activity-->
