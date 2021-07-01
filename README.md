@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Recent Activities 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/AbirHasan2005/GdriveSearcherBot/pull/4) in [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot)
-2. ❗️ Opened issue [#81](https://github.com/yash-dk/TorToolkit-Telegram/issues/81) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-3. 🎉 Merged PR [#70](https://github.com/MrBotDeveloper/PDF-Bot/pull/70) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-4. 🎉 Merged PR [#68](https://github.com/MrBotDeveloper/PDF-Bot/pull/68) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-5. 🎉 Merged PR [#67](https://github.com/MrBotDeveloper/PDF-Bot/pull/67) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+1. 🎉 Merged PR [#74](https://github.com/MrBotDeveloper/PDF-Bot/pull/74) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+2. 💪 Opened PR [#4](https://github.com/AbirHasan2005/GdriveSearcherBot/pull/4) in [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot)
+3. ❗️ Opened issue [#81](https://github.com/yash-dk/TorToolkit-Telegram/issues/81) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+4. 🎉 Merged PR [#70](https://github.com/MrBotDeveloper/PDF-Bot/pull/70) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+5. 🎉 Merged PR [#68](https://github.com/MrBotDeveloper/PDF-Bot/pull/68) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 <!--END_SECTION:activity-->
