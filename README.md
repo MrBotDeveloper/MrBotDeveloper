@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Recent Activities 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/MrBotDeveloper/PDF-Bot/pull/80) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-2. 🗣 Commented on [#81](https://github.com/yash-dk/TorToolkit-Telegram/issues/81) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+1. ❗️ Opened issue [#714](https://github.com/pyrogram/pyrogram/issues/714) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+2. 🎉 Merged PR [#80](https://github.com/MrBotDeveloper/PDF-Bot/pull/80) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 3. 🗣 Commented on [#81](https://github.com/yash-dk/TorToolkit-Telegram/issues/81) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-4. 🎉 Merged PR [#79](https://github.com/MrBotDeveloper/PDF-Bot/pull/79) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-5. ❌ Closed PR [#78](https://github.com/MrBotDeveloper/PDF-Bot/pull/78) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+4. 🗣 Commented on [#81](https://github.com/yash-dk/TorToolkit-Telegram/issues/81) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+5. 🎉 Merged PR [#79](https://github.com/MrBotDeveloper/PDF-Bot/pull/79) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 <!--END_SECTION:activity-->
