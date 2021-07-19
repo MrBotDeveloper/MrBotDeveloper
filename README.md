@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#88](https://github.com/MrBotDeveloper/PDF-Bot/issues/88) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 3. 🗣 Commented on [#88](https://github.com/MrBotDeveloper/PDF-Bot/issues/88) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 4. 🗣 Commented on [#88](https://github.com/MrBotDeveloper/PDF-Bot/issues/88) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-5. 🗣 Commented on [#87](https://github.com/MrBotDeveloper/PDF-Bot/issues/87) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+5. 🗣 Commented on [#88](https://github.com/MrBotDeveloper/PDF-Bot/issues/88) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 <!--END_SECTION:activity-->
