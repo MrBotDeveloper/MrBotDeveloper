@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Recent Activities 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#721](https://github.com/pyrogram/pyrogram/issues/721) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-2. ❗️ Closed issue [#88](https://github.com/MrBotDeveloper/PDF-Bot/issues/88) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-3. 🗣 Commented on [#88](https://github.com/MrBotDeveloper/PDF-Bot/issues/88) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+1. 🗣 Commented on [#721](https://github.com/pyrogram/pyrogram/issues/721) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+2. ❗️ Opened issue [#721](https://github.com/pyrogram/pyrogram/issues/721) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+3. ❗️ Closed issue [#88](https://github.com/MrBotDeveloper/PDF-Bot/issues/88) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 4. 🗣 Commented on [#88](https://github.com/MrBotDeveloper/PDF-Bot/issues/88) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 5. 🗣 Commented on [#88](https://github.com/MrBotDeveloper/PDF-Bot/issues/88) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 <!--END_SECTION:activity-->
