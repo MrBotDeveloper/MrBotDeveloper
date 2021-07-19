@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#721](https://github.com/pyrogram/pyrogram/issues/721) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 3. 🗣 Commented on [#721](https://github.com/pyrogram/pyrogram/issues/721) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 4. 🗣 Commented on [#721](https://github.com/pyrogram/pyrogram/issues/721) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-5. ❗️ Opened issue [#721](https://github.com/pyrogram/pyrogram/issues/721) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+5. 🗣 Commented on [#721](https://github.com/pyrogram/pyrogram/issues/721) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 <!--END_SECTION:activity-->
