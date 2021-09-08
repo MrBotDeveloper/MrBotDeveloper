@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/nacbots/BroadcastBot/issues/1) in [nacbots/BroadcastBot](https://github.com/nacbots/BroadcastBot)
-2. ❗️ Closed issue [#112](https://github.com/MrBotDeveloper/PDF-Bot/issues/112) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-3. 🎉 Merged PR [#116](https://github.com/MrBotDeveloper/PDF-Bot/pull/116) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-4. 🎉 Merged PR [#115](https://github.com/MrBotDeveloper/PDF-Bot/pull/115) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-5. 🎉 Merged PR [#114](https://github.com/MrBotDeveloper/PDF-Bot/pull/114) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+2. 🗣 Commented on [#1](https://github.com/nacbots/BroadcastBot/issues/1) in [nacbots/BroadcastBot](https://github.com/nacbots/BroadcastBot)
+3. ❗️ Closed issue [#112](https://github.com/MrBotDeveloper/PDF-Bot/issues/112) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+4. 🎉 Merged PR [#116](https://github.com/MrBotDeveloper/PDF-Bot/pull/116) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+5. 🎉 Merged PR [#115](https://github.com/MrBotDeveloper/PDF-Bot/pull/115) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 <!--END_SECTION:activity-->
