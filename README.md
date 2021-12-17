@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#166](https://github.com/MrBotDeveloper/PDF-Bot/pull/166) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-2. 🎉 Merged PR [#164](https://github.com/MrBotDeveloper/PDF-Bot/pull/164) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-3. 🎉 Merged PR [#163](https://github.com/MrBotDeveloper/PDF-Bot/pull/163) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-4. 🎉 Merged PR [#165](https://github.com/MrBotDeveloper/PDF-Bot/pull/165) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-5. 🎉 Merged PR [#161](https://github.com/MrBotDeveloper/PDF-Bot/pull/161) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+1. 🗣 Commented on [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+2. ❗️ Closed issue [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+3. 🗣 Commented on [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+4. 🗣 Commented on [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+5. ❗️ Opened issue [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 <!--END_SECTION:activity-->
