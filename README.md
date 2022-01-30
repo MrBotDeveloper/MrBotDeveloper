@@ -37,15 +37,8 @@ I am A Noob Telegram Bot Developer, who used to learn from open sources and the 
  [![Mr.Developer Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MrBotDeveloper&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/MrBotDeveloper)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Heroku Mods #AbuseHeroku
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on ....
-- 🤔 I’m looking for help with [Abir Bhaiya](https://GitHub.com/AbirHasan2005)
-- 💬 Ask me about ...
-- 📫 How to reach me: [Telegram](https://t.me/Mr_Pro_Noob)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [My API](https://api.mrdeveloper.ga)
+- 🌱 I’m currently learning [Java](https://www.java.com/en/)
 
 ## ⚡ GitHub Recent Activities 
 
