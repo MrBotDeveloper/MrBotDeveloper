@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 
-1. 🗣 Commented on [#875](https://github.com/pyrogram/pyrogram/issues/875) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+1. 🗣 Commented on [#263](https://github.com/pyrogram/pyrogram/issues/263) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 2. 🗣 Commented on [#875](https://github.com/pyrogram/pyrogram/issues/875) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-3. 🗣 Commented on [#877](https://github.com/pyrogram/pyrogram/issues/877) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-4. ❗️ Opened issue [#875](https://github.com/pyrogram/pyrogram/issues/875) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-5. 🎉 Merged PR [#177](https://github.com/MrBotDeveloper/PDF-Bot/pull/177) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+3. 🗣 Commented on [#875](https://github.com/pyrogram/pyrogram/issues/875) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+4. 🗣 Commented on [#877](https://github.com/pyrogram/pyrogram/issues/877) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+5. ❗️ Opened issue [#875](https://github.com/pyrogram/pyrogram/issues/875) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 <!--END_SECTION:activity-->
