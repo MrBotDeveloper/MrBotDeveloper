@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 
-1. ❗️ Opened issue [#890](https://github.com/pyrogram/pyrogram/issues/890) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-2. 🗣 Commented on [#263](https://github.com/pyrogram/pyrogram/issues/263) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-3. 🗣 Commented on [#875](https://github.com/pyrogram/pyrogram/issues/875) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-4. 🗣 Commented on [#875](https://github.com/pyrogram/pyrogram/issues/875) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-5. 🗣 Commented on [#877](https://github.com/pyrogram/pyrogram/issues/877) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+1. 🎉 Merged PR [#179](https://github.com/MrBotDeveloper/PDF-Bot/pull/179) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+2. 🎉 Merged PR [#187](https://github.com/MrBotDeveloper/PDF-Bot/pull/187) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+3. 🎉 Merged PR [#182](https://github.com/MrBotDeveloper/PDF-Bot/pull/182) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+4. 🎉 Merged PR [#183](https://github.com/MrBotDeveloper/PDF-Bot/pull/183) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+5. 🎉 Merged PR [#184](https://github.com/MrBotDeveloper/PDF-Bot/pull/184) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 <!--END_SECTION:activity-->
