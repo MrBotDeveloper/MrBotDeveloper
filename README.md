@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#890](https://github.com/pyrogram/pyrogram/issues/890) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 2. 🗣 Commented on [#890](https://github.com/pyrogram/pyrogram/issues/890) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 3. 🗣 Commented on [#890](https://github.com/pyrogram/pyrogram/issues/890) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-4. 🗣 Commented on [#897](https://github.com/pyrogram/pyrogram/issues/897) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+4. 🗣 Commented on [#890](https://github.com/pyrogram/pyrogram/issues/890) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 5. 🗣 Commented on [#890](https://github.com/pyrogram/pyrogram/issues/890) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 <!--END_SECTION:activity-->
