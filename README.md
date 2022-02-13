@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 
 1. 🗣 Commented on [#890](https://github.com/pyrogram/pyrogram/issues/890) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-2. 🗣 Commented on [#897](https://github.com/pyrogram/pyrogram/issues/897) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-3. 🗣 Commented on [#890](https://github.com/pyrogram/pyrogram/issues/890) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-4. 🎉 Merged PR [#179](https://github.com/MrBotDeveloper/PDF-Bot/pull/179) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-5. 🎉 Merged PR [#187](https://github.com/MrBotDeveloper/PDF-Bot/pull/187) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+2. 🗣 Commented on [#890](https://github.com/pyrogram/pyrogram/issues/890) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+3. 🗣 Commented on [#897](https://github.com/pyrogram/pyrogram/issues/897) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+4. 🗣 Commented on [#890](https://github.com/pyrogram/pyrogram/issues/890) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+5. 🎉 Merged PR [#179](https://github.com/MrBotDeveloper/PDF-Bot/pull/179) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 <!--END_SECTION:activity-->
