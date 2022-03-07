@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 
-1. 🗣 Commented on [#926](https://github.com/pyrogram/pyrogram/issues/926) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+1. 💪 Opened PR [#930](https://github.com/pyrogram/pyrogram/pull/930) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 2. 🗣 Commented on [#926](https://github.com/pyrogram/pyrogram/issues/926) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 3. 🗣 Commented on [#926](https://github.com/pyrogram/pyrogram/issues/926) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 4. 🗣 Commented on [#926](https://github.com/pyrogram/pyrogram/issues/926) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-5. 💪 Opened PR [#926](https://github.com/pyrogram/pyrogram/pull/926) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+5. 🗣 Commented on [#926](https://github.com/pyrogram/pyrogram/issues/926) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 <!--END_SECTION:activity-->
