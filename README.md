@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 
-1. 💪 Opened PR [#950](https://github.com/pyrogram/pyrogram/pull/950) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-2. 🎉 Merged PR [#1](https://github.com/MrBotDeveloper/pyrogram/pull/1) in [MrBotDeveloper/pyrogram](https://github.com/MrBotDeveloper/pyrogram)
-3. 💪 Opened PR [#1](https://github.com/MrBotDeveloper/pyrogram/pull/1) in [MrBotDeveloper/pyrogram](https://github.com/MrBotDeveloper/pyrogram)
-4. 🎉 Merged PR [#209](https://github.com/MrBotDeveloper/PDF-Bot/pull/209) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-5. ❗️ Closed issue [#208](https://github.com/MrBotDeveloper/PDF-Bot/issues/208) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+1. 🗣 Commented on [#950](https://github.com/pyrogram/pyrogram/issues/950) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+2. 💪 Opened PR [#950](https://github.com/pyrogram/pyrogram/pull/950) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+3. 🎉 Merged PR [#1](https://github.com/MrBotDeveloper/pyrogram/pull/1) in [MrBotDeveloper/pyrogram](https://github.com/MrBotDeveloper/pyrogram)
+4. 💪 Opened PR [#1](https://github.com/MrBotDeveloper/pyrogram/pull/1) in [MrBotDeveloper/pyrogram](https://github.com/MrBotDeveloper/pyrogram)
+5. 🎉 Merged PR [#209](https://github.com/MrBotDeveloper/PDF-Bot/pull/209) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 <!--END_SECTION:activity-->
