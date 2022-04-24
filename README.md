@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 
-1. 🗣 Commented on [#963](https://github.com/pyrogram/pyrogram/issues/963) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-2. 🗣 Commented on [#963](https://github.com/pyrogram/pyrogram/issues/963) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+1. 🗣 Commented on [#1](https://github.com/MrBotDeveloper/This-Repo-Has-43-Stars/issues/1) in [MrBotDeveloper/This-Repo-Has-43-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-43-Stars)
+2. ❗️ Closed issue [#1](https://github.com/MrBotDeveloper/This-Repo-Has-43-Stars/issues/1) in [MrBotDeveloper/This-Repo-Has-43-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-43-Stars)
 3. 🗣 Commented on [#963](https://github.com/pyrogram/pyrogram/issues/963) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 4. 🗣 Commented on [#963](https://github.com/pyrogram/pyrogram/issues/963) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-5. ❌ Closed PR [#221](https://github.com/MrBotDeveloper/PDF-Bot/pull/221) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+5. 🗣 Commented on [#963](https://github.com/pyrogram/pyrogram/issues/963) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 <!--END_SECTION:activity-->
