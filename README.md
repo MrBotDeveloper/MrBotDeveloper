@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 
-1. 🗣 Commented on [#968](https://github.com/pyrogram/pyrogram/issues/968) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-2. 🗣 Commented on [#1](https://github.com/MrBotDeveloper/This-Repo-Has-43-Stars/issues/1) in [MrBotDeveloper/This-Repo-Has-43-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-43-Stars)
-3. ❗️ Closed issue [#1](https://github.com/MrBotDeveloper/This-Repo-Has-43-Stars/issues/1) in [MrBotDeveloper/This-Repo-Has-43-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-43-Stars)
-4. 🗣 Commented on [#963](https://github.com/pyrogram/pyrogram/issues/963) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-5. 🗣 Commented on [#963](https://github.com/pyrogram/pyrogram/issues/963) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+1. ❗️ Closed issue [#914](https://github.com/pyrogram/pyrogram/issues/914) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+2. 🗣 Commented on [#914](https://github.com/pyrogram/pyrogram/issues/914) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+3. 🗣 Commented on [#931](https://github.com/pyrogram/pyrogram/issues/931) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+4. 🗣 Commented on [#968](https://github.com/pyrogram/pyrogram/issues/968) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+5. 🗣 Commented on [#1](https://github.com/MrBotDeveloper/This-Repo-Has-43-Stars/issues/1) in [MrBotDeveloper/This-Repo-Has-43-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-43-Stars)
 <!--END_SECTION:activity-->
