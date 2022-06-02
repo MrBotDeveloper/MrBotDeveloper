@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#250](https://github.com/MrBotDeveloper/PDF-Bot/pull/250) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-2. 🎉 Merged PR [#251](https://github.com/MrBotDeveloper/PDF-Bot/pull/251) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-3. ❌ Closed PR [#5](https://github.com/NACBots/BroadcastBot/pull/5) in [NACBots/BroadcastBot](https://github.com/NACBots/BroadcastBot)
-4. 🎉 Merged PR [#249](https://github.com/MrBotDeveloper/PDF-Bot/pull/249) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-5. 🎉 Merged PR [#247](https://github.com/MrBotDeveloper/PDF-Bot/pull/247) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+1. 💪 Opened PR [#1007](https://github.com/pyrogram/pyrogram/pull/1007) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
+2. 🎉 Merged PR [#250](https://github.com/MrBotDeveloper/PDF-Bot/pull/250) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+3. 🎉 Merged PR [#251](https://github.com/MrBotDeveloper/PDF-Bot/pull/251) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+4. ❌ Closed PR [#5](https://github.com/NACBots/BroadcastBot/pull/5) in [NACBots/BroadcastBot](https://github.com/NACBots/BroadcastBot)
+5. 🎉 Merged PR [#249](https://github.com/MrBotDeveloper/PDF-Bot/pull/249) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 <!--END_SECTION:activity-->
