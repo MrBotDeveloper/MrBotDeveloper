@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 
-1. 🗣 Commented on [#4091](https://github.com/yt-dlp/yt-dlp/issues/4091) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+1. 🗣 Commented on [#1021](https://github.com/pyrogram/pyrogram/issues/1021) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 2. 🗣 Commented on [#4091](https://github.com/yt-dlp/yt-dlp/issues/4091) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-3. ❗️ Opened issue [#4091](https://github.com/yt-dlp/yt-dlp/issues/4091) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-4. 💪 Opened PR [#1007](https://github.com/pyrogram/pyrogram/pull/1007) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-5. 🎉 Merged PR [#250](https://github.com/MrBotDeveloper/PDF-Bot/pull/250) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+3. 🗣 Commented on [#4091](https://github.com/yt-dlp/yt-dlp/issues/4091) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+4. ❗️ Opened issue [#4091](https://github.com/yt-dlp/yt-dlp/issues/4091) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+5. 💪 Opened PR [#1007](https://github.com/pyrogram/pyrogram/pull/1007) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 <!--END_SECTION:activity-->
