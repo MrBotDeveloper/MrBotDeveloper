@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 
-1. 🗣 Commented on [#269](https://github.com/MrBotDeveloper/PDF-Bot/issues/269) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-2. ❗️ Reopened issue [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-3. 🗣 Commented on [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-4. 🗣 Commented on [#1021](https://github.com/pyrogram/pyrogram/issues/1021) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-5. 🗣 Commented on [#4091](https://github.com/yt-dlp/yt-dlp/issues/4091) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+1. ❌ Closed PR [#269](https://github.com/MrBotDeveloper/PDF-Bot/pull/269) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+2. 🗣 Commented on [#269](https://github.com/MrBotDeveloper/PDF-Bot/issues/269) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+3. ❗️ Reopened issue [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+4. 🗣 Commented on [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+5. 🗣 Commented on [#1021](https://github.com/pyrogram/pyrogram/issues/1021) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 <!--END_SECTION:activity-->
