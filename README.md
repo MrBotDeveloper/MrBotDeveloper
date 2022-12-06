@@ -34,7 +34,7 @@ I am A Noob Telegram Bot Developer, who used to learn from open sources and the 
 
   [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-Mr._Developer-RED.svg)](https://t.me/n_a_c_bot_developers)
 
- [![Mr.Developer Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MrBotDeveloper&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/MrBotDeveloper)
+ [![Mr.Developer Contribution Graph](https://ghactivity.mrayush.me/graph?username=MrBotDeveloper&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/MrBotDeveloper)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [My API](https://api.mrdeveloper.ga)
