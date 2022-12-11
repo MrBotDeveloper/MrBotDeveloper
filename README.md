@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 
-1. ❌ Closed PR [#278](https://github.com/MrBotDeveloper/PDF-Bot/pull/278) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-2. ❌ Closed PR [#299](https://github.com/MrBotDeveloper/PDF-Bot/pull/299) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-3. ❌ Closed PR [#308](https://github.com/MrBotDeveloper/PDF-Bot/pull/308) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-4. ❌ Closed PR [#318](https://github.com/MrBotDeveloper/PDF-Bot/pull/318) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-5. ❌ Closed PR [#319](https://github.com/MrBotDeveloper/PDF-Bot/pull/319) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+1. 🗣 Commented on [#1](https://github.com/MrBotDeveloper/MrBotDeveloper/issues/1) in [MrBotDeveloper/MrBotDeveloper](https://github.com/MrBotDeveloper/MrBotDeveloper)
+2. 🎉 Merged PR [#1](https://github.com/MrBotDeveloper/MrBotDeveloper/pull/1) in [MrBotDeveloper/MrBotDeveloper](https://github.com/MrBotDeveloper/MrBotDeveloper)
+3. ❌ Closed PR [#278](https://github.com/MrBotDeveloper/PDF-Bot/pull/278) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+4. ❌ Closed PR [#299](https://github.com/MrBotDeveloper/PDF-Bot/pull/299) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
+5. ❌ Closed PR [#308](https://github.com/MrBotDeveloper/PDF-Bot/pull/308) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
 <!--END_SECTION:activity-->
